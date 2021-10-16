@@ -1,0 +1,17 @@
+[I 00:30:53.964 NotebookApp] Serving notebooks from local directory: /home/vincent/comp598-2021/hw4/submission_template
+[I 00:30:53.964 NotebookApp] Jupyter Notebook 6.4.4 is running at:
+[I 00:30:53.964 NotebookApp] https://ip-172-31-21-153:8888/
+[I 00:30:53.964 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 00:31:22.267 NotebookApp] SSL Error on 8 ('70.82.203.166', 59596): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1131)
+[W 00:31:22.274 NotebookApp] SSL Error on 9 ('70.82.203.166', 59597): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1131)
+[I 00:31:22.334 NotebookApp] 302 GET / (70.82.203.166) 0.640000ms
+[W 00:31:22.780 NotebookApp] SSL Error on 9 ('70.82.203.166', 59601): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1131)
+[W 00:31:22.794 NotebookApp] SSL Error on 10 ('70.82.203.166', 59603): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1131)
+[W 00:31:22.795 NotebookApp] SSL Error on 11 ('70.82.203.166', 59602): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1131)
+[W 00:31:22.801 NotebookApp] SSL Error on 12 ('70.82.203.166', 59605): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1131)
+[W 00:31:22.801 NotebookApp] SSL Error on 13 ('70.82.203.166', 59604): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1131)
+[W 00:31:22.841 NotebookApp] SSL Error on 9 ('70.82.203.166', 59606): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1131)
+[W 00:31:22.870 NotebookApp] SSL Error on 12 ('70.82.203.166', 59610): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1131)
+[W 00:31:22.871 NotebookApp] SSL Error on 13 ('70.82.203.166', 59609): [SSL: SSLV3_ALERT_CERTIFICATE_UNKNOWN] sslv3 alert certificate unknown (_ssl.c:1131)
+/usr/lib/python3.8/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
