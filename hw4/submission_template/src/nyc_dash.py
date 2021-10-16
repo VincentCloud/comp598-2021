@@ -24,7 +24,7 @@ bokeh_doc = curdoc()
 bokeh_doc.title = 'Monthly Average Response Time Sorted By Zip Codes'
 
 df = pd.read_csv(
-    '/Users/vincenthuang/Development/Study/COMP598/COMP598/comp598-2021/hw4/submission_template/data/average.csv')
+    '/home/vincent/comp598-2021/hw4/submission_template/data/average.csv')
 zip_codes = df['Zip Codes'].unique()
 
 menu = [(f'{zip}', f'{zip}') for zip in zip_codes]
